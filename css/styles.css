@@ -1,0 +1,20 @@
+h2.intro {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: brown;
+  height: 30px;
+  color: darkorange;
+}
+
+p.intro {
+  font-style: italic;
+}
+
+.end-section {
+  border-bottom: solid 5px brown;
+}
+
+img.intro {
+  border: solid 5px brown;
+
+}
